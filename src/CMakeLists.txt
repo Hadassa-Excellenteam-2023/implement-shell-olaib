@@ -1,2 +1,5 @@
-﻿target_sources (ex01 PRIVATE "main.cpp"
-							)
+﻿target_sources (myshell PRIVATE "main.cpp"
+							 "Command.cpp"
+							 "EchoCommand.cpp"
+							 "ExternalCommand.cpp"
+							 "CommandFactory.cpp" )

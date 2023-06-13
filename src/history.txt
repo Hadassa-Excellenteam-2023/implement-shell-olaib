@@ -62,3 +62,8 @@ vi&
 & vi
 vi &
 [2;2R[3;1R[>0;10;qqqOBOC 1
+echo aaaa
+echo $PATH
+mkdir a
+myhistory
+vi &

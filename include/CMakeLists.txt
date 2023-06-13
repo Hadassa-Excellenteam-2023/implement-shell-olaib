@@ -1,1 +1,1 @@
-﻿target_include_directories (ex01 PRIVATE ${CMAKE_CURRENT_LIST_DIR})
+﻿target_include_directories (myshell PRIVATE ${CMAKE_CURRENT_LIST_DIR})
