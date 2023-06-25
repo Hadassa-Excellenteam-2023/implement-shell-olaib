@@ -1,0 +1,69 @@
+echo "Hello, world!"
+vi &
+[2;2R[3;1R[>0;10;1cOBOB efwfef
+echo "Hello, world!"
+myjobs
+vi &
+[2;2R[3;1R1cmddd:[200~help [201~
+pwd
+echo hellow world
+cat < input.txt
+myjobs
+jobs
+jobs
+PATH$
+myhistory
+exit
+exit
+PATH$ echo
+echo $PATH
+exit
+echo $PATH
+echo $PATH
+myhistory
+[>0;10;1c
+cat < input.txt
+/bin/echo hello
+PATH
+pwd
+vi &ger
+myhistory
+${PATH}
+echo ${1}
+PATH
+$PATH
+echo $PATH
+echo ${PATH}
+echo $PATH
+echo ${PATH}
+PATH
+echo $PATH
+echo $PATH
+PATH
+echo $PATH
+echo $PATH
+echo $PATH
+echo ${PATH}
+MY_VAR2=World
+echo $SHELL
+PATH
+$PATH
+echo $PATH
+echo $PATH
+$PATH
+PATH
+echo $PATH
+myhistory
+pwd
+echo x
+echo
+echo "hello"
+vi&
+& vi
+vi &
+[2;2R[3;1R[>0;10;qqqOBOC 1
+echo aaaa
+echo $PATH
+mkdir a
+myhistory
+vi &
